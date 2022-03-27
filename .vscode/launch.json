@@ -1,0 +1,239 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch For",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AgeCalculator",
+            "request": "launch",
+            "mainClass": "AgeCalculator",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayIntro",
+            "request": "launch",
+            "mainClass": "ArrayIntro",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListIntro",
+            "request": "launch",
+            "mainClass": "ArrayListIntro",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary",
+            "request": "launch",
+            "mainClass": "Binary",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch BooleanIntro",
+            "request": "launch",
+            "mainClass": "BooleanIntro",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparison",
+            "request": "launch",
+            "mainClass": "Comparison",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiceInt",
+            "request": "launch",
+            "mainClass": "DiceInt",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivisorPattern",
+            "request": "launch",
+            "mainClass": "DivisorPattern",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch EucDis",
+            "request": "launch",
+            "mainClass": "EucDis",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factors",
+            "request": "launch",
+            "args": "50",
+            "mainClass": "Factors",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch FiniteProduct",
+            "request": "launch",
+            "mainClass": "FiniteProduct",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch FiniteSum",
+            "request": "launch",
+            "mainClass": "FiniteSum",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gambler",
+            "request": "launch",
+            "mainClass": "Gambler",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch HarmonicNumber",
+            "request": "launch",
+            "mainClass": "HarmonicNumber",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorldRepeat",
+            "request": "launch",
+            "mainClass": "HelloWorldRepeat",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Power2",
+            "request": "launch",
+            "mainClass": "Power2",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quadratic",
+            "request": "launch",
+            "mainClass": "Quadratic",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Random",
+            "request": "launch",
+            "mainClass": "Random",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomInt",
+            "request": "launch",
+            "mainClass": "RandomInt",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomInt2",
+            "request": "launch",
+            "mainClass": "RandomInt2",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ruler",
+            "request": "launch",
+            "mainClass": "Ruler",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringIntro",
+            "request": "launch",
+            "mainClass": "StringIntro",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoPositiveInt",
+            "request": "launch",
+            "mainClass": "TwoPositiveInt",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch UseArgument",
+            "request": "launch",
+            "mainClass": "UseArgument",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch UseThree",
+            "request": "launch",
+            "mainClass": "UseThree",
+            "projectName": "src_736c2144"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "src_736c2144"
+        }
+    ]
+}
